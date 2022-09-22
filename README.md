@@ -1,0 +1,2 @@
+# text-recognition-craft
+OCR
